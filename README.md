@@ -27,7 +27,7 @@ Jio Health Hub x Netmeds: 100M user growth strategy
 - [App Analysis](docs/analysis.md)
 - [Netmeds API Flows]
 - [Q1 Launch Plan](q1-plan.md)
-- [User Journey](jio-netmed_user journey-swimlane.png.png)
+- [User Journey] (jio-healthhub-netmeds-playbook/jio-netmed_user journey-swimlane.png.png)
 
 Krishna Paruchuri | PM | Healthtech | Hyderabad
 
