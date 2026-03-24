@@ -4,9 +4,9 @@ Jio Health Hub x Netmeds: 100M user growth strategy
 # Jio Health Hub x Netmeds: Scaling to 100M Users 💊
 
 ## Strategic Fit
-**Reliance owns Netmeds (60% stake 2020)** + Jio Health Hub consults = natural integration.[web:162]
-- JioHealthHub: 1M+ DAU est, consults/tests[web:153]
-- Netmeds: Medicine delivery, Jio voucher partnerships[web:162]
+**Reliance owns Netmeds (60% stake 2020)** + Jio Health Hub consults = natural integration.
+- JioHealthHub: 1M+ DAU est, consults/tests
+- Netmeds: Medicine delivery, Jio voucher partnerships
 
 **Gap:** No seamless "consult → prescription → Netmeds delivery"
 
@@ -19,7 +19,7 @@ Jio Health Hub x Netmeds: 100M user growth strategy
 | Q4 | Network | Jio stores → Netmeds pickup | 100M DAU | 1200+ cities |
 
 ## Integration Roadmap
-1. **Post-Consult Rx Flow:** Jio doc prescription → Netmeds cart (live Jio-Netmeds vouchers)[web:162]
+1. **Post-Consult Rx Flow:** Jio doc prescription → Netmeds cart (live Jio-Netmeds vouchers)
 2. **AI + Pharmacy:** Symptom → Urgency → Netmeds stock check → Delivery ETA
 3. **Jio Super App:** Health tab → Netmeds medicine reorder
 
